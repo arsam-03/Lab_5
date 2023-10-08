@@ -1,0 +1,28 @@
+.background {
+    background-color: green;
+    position: absolute;
+    bottom: 0;
+    width: 1338px;
+    padding: 20px;
+    height: 890px;
+}
+.box1 {
+    background-color: blue;
+    width: 250px;
+    height: 250px;
+    display: inline-block;
+    margin-left: 200px;
+}
+.box2 {
+    background-color: red;
+    width: 250px;
+    height: 250px;
+    display: inline-block;
+    margin-left: 450px;
+}
+.box3 {
+    background-color: yellow;
+    width: 250px;
+    height: 250px;
+    margin-left: 550px;
+}

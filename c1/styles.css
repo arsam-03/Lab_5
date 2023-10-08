@@ -1,0 +1,27 @@
+.box1 {
+    background-color: red;
+    text-align: center;
+    height: 100px;
+}
+.para1 {
+    color: white;
+    font-size: 30px;
+    display:inline-flex;
+}
+.box2 {
+    background-color: green;
+    margin: 0px;
+    height: 630px;
+    display:flex;
+}
+.para2 {
+    color: white;
+}
+.box3 {
+    background-color: blue;
+    height: 90px;
+    display: flex;
+}
+.para3 {
+    color: white;
+}
